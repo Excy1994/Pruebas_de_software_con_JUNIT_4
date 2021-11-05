@@ -1,4 +1,4 @@
 package com.obregon;
 
-public class EmpleadoValidateException {
+public class EmpleadoValidateException extends Exception {
 }
