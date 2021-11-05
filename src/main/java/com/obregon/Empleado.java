@@ -19,7 +19,7 @@ public class Empleado {
 
     float CalcularSalarioBruto(String tipo_empleado, float ventasM, float horas_extras) throws EmpleadoValidateException {
 
-        
+
 
         if (tipo_empleado == "vendedor") {
             //System.out.println(tipo_empleado);
